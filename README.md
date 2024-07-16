@@ -1,4 +1,4 @@
 # daily-quote
-An interesting quote system for your website to use. Enjoy folks!
-Using PHP, HTML, BOOTSTRAP.
+<h1 style="color:green;">An interesting quote system for your website to use. Enjoy folks!</h1>
 <br>
+Using PHP, HTML, BOOTSTRAP.
